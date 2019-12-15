@@ -1,0 +1,20 @@
+.App-wrapper {
+  width: 100%;
+  display: flex;
+  background-color: #293944;
+  height: 100vh;
+}
+.App-main {
+  width: 80%;
+  max-width: 300px;
+  margin: auto;
+  box-shadow: 0px 0px 10px 5px black;
+}
+.row {
+  width: 100%;
+  display: flex;
+  flex: 1;
+}
+.opeartor {
+  background-color: #EC9770 !important;
+}

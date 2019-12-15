@@ -1,0 +1,11 @@
+.clear {
+  display: flex;
+  flex: 3;
+  align-items: center;
+  background-color: #DDD;
+  height: 1.5em;
+  font-size: 1.2em;
+  justify-content: center;
+  font-weight: normal;
+  padding-left: 36px;
+}

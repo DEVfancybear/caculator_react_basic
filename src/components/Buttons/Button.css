@@ -1,0 +1,14 @@
+.warpper-button {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  background-color: #FFFFFF;
+  height: 3em;
+  font-size: 1.2em;
+  justify-content: center;
+  font-weight: normal;
+}
+
+.warpper-button:active:hover {
+  background-color: pink;
+}
